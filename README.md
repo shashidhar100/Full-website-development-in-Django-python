@@ -7,6 +7,8 @@ Database used Postgressql for production\
 Database used Sqlite for development\
 This code in the zip is in developmet phase zip\
 Our website consisted of notification via sms for that you need the twilio account\
+this are website pages\\
+
 
 
 
