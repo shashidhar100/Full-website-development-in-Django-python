@@ -10,9 +10,9 @@ Our website consisted of notification via sms for that you need the twilio accou
 website pages demo are in "website demo images" folder\
 Please contact me for code at :**shashidharvk100@gmail.com**\
 <div>
-  <img src="website demo images/1.png">
+  <img src="website demo images/1.png" width=50%>
  </div>
-![we](website demo images/1.png)
+
 
 
 
