@@ -10,6 +10,11 @@ Our website consisted of notification via sms for that you need the twilio accou
 website pages demo are in "website demo images" folder\
 Please contact me for code at :**shashidharvk100@gmail.com**
 
+<!DOCTYPE html>
+<html>
+  <title>Attendance</title>
+ </html>
+
 
 
 
