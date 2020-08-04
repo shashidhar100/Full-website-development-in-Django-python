@@ -12,6 +12,54 @@ Please contact me for code at :**shashidharvk100@gmail.com**\
 <div>
   <img src="website demo images/1.png" width=80%>
  </div>
+ <div>
+  <img src="website demo images/2.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/3.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/4.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/5.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/6.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/7.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/8.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/9.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/10.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/11.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/12.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/13.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/14.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/15.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/16.png" width=80%>
+ </div>
+ <div>
+  <img src="website demo images/17.png" width=80%>
+ </div>
 
 
 
